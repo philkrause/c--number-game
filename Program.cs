@@ -16,7 +16,7 @@ namespace GuessNumber
         var low = 1;
 
         Console.Clear();
-        string welcome = "Welcome to the Magical Mystery Number Dungeon. I am the Dungeon's master Babu, and I will guess any number you choose between 1 and 1000. Open your mind and choose your number.";
+        string welcome = "Welcome to the Magical Mystery Number Dungeon. I am the Dungeon's master Babu, and I will guess any number you choose between 1 and 100. Open your mind and choose your number.";
         foreach (char c in welcome)
         {
           Console.Write(c);
@@ -25,7 +25,7 @@ namespace GuessNumber
 
         Console.WriteLine("\nPress SPACE_BAR to continue");
         Console.ReadKey();
-        string firstGuess = $"BABU IS USING HIS TELEPATHIC POWERS.....Is {guess} your Magical Number??!! You MUST type YES if I am correct!, or tell me HIGHER OR LOWER.\n";
+        string firstGuess = $"BABU IS USING HIS TELEPATHIC POWERS.....Is {guess} your Magical Number??!!\nYou MUST type YES if I am correct!, or tell me HIGHER OR LOWER.\n";
         foreach (char c in firstGuess)
         {
           Console.Write(c);
@@ -33,7 +33,6 @@ namespace GuessNumber
         }
 
         var input = Console.ReadLine();
-
 
         while (input != "yes")
 
@@ -68,7 +67,7 @@ namespace GuessNumber
 
         if (input == "yes")
         {
-          string correct = "HAHAHAHA Babu's superior power has chosen wisely ONCE again! Please come back soon to my Magical Dungeon!!\n";
+          string correct = "HAHAHAHA Babu's superior power has chosen wisely ONCE AGAIN! Please come back soon to my Magical Dungeon!!\n";
           foreach (char c in correct)
           {
             Console.Write(c);
