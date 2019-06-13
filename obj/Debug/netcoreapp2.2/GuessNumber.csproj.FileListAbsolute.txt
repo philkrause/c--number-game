@@ -1,0 +1,11 @@
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/GuessNumber.deps.json
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/GuessNumber.runtimeconfig.json
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/GuessNumber.runtimeconfig.dev.json
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/GuessNumber.dll
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/GuessNumber.pdb
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/GuessNumber.csprojAssemblyReference.cache
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/GuessNumber.AssemblyInfoInputs.cache
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/GuessNumber.AssemblyInfo.cs
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/GuessNumber.dll
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/GuessNumber.pdb
