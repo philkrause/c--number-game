@@ -1,0 +1,14 @@
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/libhostpolicy.so
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/libhostfxr.so
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/GuessNumber
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/GuessNumber.deps.json
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/GuessNumber.runtimeconfig.json
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/GuessNumber.runtimeconfig.dev.json
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/GuessNumber.dll
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/bin/Debug/netcoreapp2.2/linux-arm/GuessNumber.pdb
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/linux-arm/GuessNumber.csprojAssemblyReference.cache
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/linux-arm/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/linux-arm/GuessNumber.AssemblyInfoInputs.cache
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/linux-arm/GuessNumber.AssemblyInfo.cs
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/linux-arm/GuessNumber.dll
+/Users/phil/Desktop/sdg/unit-xx/GuessNumber/obj/Debug/netcoreapp2.2/linux-arm/GuessNumber.pdb

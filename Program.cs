@@ -34,7 +34,7 @@ namespace GuessNumber
 
         var input = Console.ReadLine();
 
-        while (input != "yes")
+        while (input.ToLower() != "yes")
 
         {
 
@@ -46,7 +46,7 @@ namespace GuessNumber
             foreach (char c in lowerGuess)
             {
               Console.Write(c);
-              Thread.Sleep(50);
+              Thread.Sleep(30);
             }
             input = Console.ReadLine();
           }
@@ -59,7 +59,7 @@ namespace GuessNumber
             foreach (char c in higherGuess)
             {
               Console.Write(c);
-              Thread.Sleep(50);
+              Thread.Sleep(30);
             }
             input = Console.ReadLine();
           }
